@@ -137,10 +137,7 @@
 <h2>
   <img
     src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/party/birthday.svg"
-    alt=""
-    aria-hidden="true"
-    width="36"
-    height="36"
+    alt="" aria-hidden="true" width="36" height="36"
     style="vertical-align:middle; margin-right:8px;"
   />
   Stats
@@ -149,30 +146,22 @@
 <div style="text-align:center;">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=3mbe&theme=tokyo-night&hide_border=true&bg_color=00000000"
-    alt="3mbe contribution graph"
-    width="95%"
-    loading="lazy"
-    decoding="async"
-    style="max-width:100%; height:auto;"
+    alt="3mbe contribution graph" width="95%"
+    loading="lazy" decoding="async" style="max-width:100%; height:auto;"
   />
 </div>
 
-<div style="text-align:center;">
+<!-- Side-by-side stat cards -->
+<div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap; margin-top:8px;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=3mbe&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-    alt="3mbe GitHub Stats"
-    height="170"
-    loading="lazy"
-    decoding="async"
-    style="max-width:100%; height:auto;"
+    alt="3mbe GitHub Stats" loading="lazy" decoding="async"
+    style="height:170px; width:auto; display:block;"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=3mbe&theme=tokyonight&hide_border=true&background=00000000"
-    alt="3mbe GitHub Streak"
-    height="170"
-    loading="lazy"
-    decoding="async"
-    style="max-width:100%; height:auto;"
+    alt="3mbe GitHub Streak" loading="lazy" decoding="async"
+    style="height:170px; width:auto; display:block;"
   />
 </div>
 
